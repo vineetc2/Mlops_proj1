@@ -1,19 +1,3 @@
-Based on your project, this is **not a simple machine learning project**. It demonstrates an end-to-end **production-grade MLOps pipeline** with cloud deployment, CI/CD, Docker, AWS, MongoDB, model versioning, and automated training. Recruiters usually spend **10-20 seconds** on a repository before deciding whether to continue, so the README should immediately communicate:
-
-* Professional appearance
-* Architecture
-* Technologies
-* Features
-* Project workflow
-* Screenshots placeholders
-* Deployment
-* Folder structure
-* Installation
-* Future improvements
-
-Below is a GitHub README designed specifically to impress recruiters.
-
----
 
 # 🚗 Vehicle Insurance Premium Prediction
 
